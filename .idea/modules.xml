@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3zzUtiles.iml" filepath="$PROJECT_DIR$/.idea/modules/3zzUtiles.iml" group="3zzUtiles" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/z._3z.utils.x/utilsx.iml" filepath="$PROJECT_DIR$/.idea/modules/z._3z.utils.x/utilsx.iml" group="3zzUtiles/utilsx" />
+    </modules>
+  </component>
+</project>

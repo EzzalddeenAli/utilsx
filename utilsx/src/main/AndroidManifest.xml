@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.kingtec.utils">
+
+
+    <application
+>
+
+
+        <!--display the contact list-->
+        
+
+      <!--display the user profile-->
+
+
+        <activity android:name=".Base.SingleFragmentActivity" />
+    </application>
+</manifest>
