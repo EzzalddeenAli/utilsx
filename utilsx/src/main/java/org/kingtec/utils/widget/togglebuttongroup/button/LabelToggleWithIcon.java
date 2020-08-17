@@ -10,7 +10,7 @@ import android.util.Log;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 import androidx.core.content.ContextCompat;
 

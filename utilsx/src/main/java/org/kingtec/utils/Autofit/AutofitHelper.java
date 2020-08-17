@@ -18,7 +18,7 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.TextView;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 import java.util.ArrayList;
 

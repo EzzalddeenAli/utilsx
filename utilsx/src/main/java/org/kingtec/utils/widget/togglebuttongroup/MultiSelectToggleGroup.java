@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.Checkable;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 import org.kingtec.utils.widget.togglebuttongroup.button.LabelToggle;
 import org.kingtec.utils.widget.togglebuttongroup.button.ToggleButton;
 

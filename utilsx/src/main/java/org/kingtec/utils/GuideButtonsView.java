@@ -16,7 +16,7 @@ import android.widget.LinearLayout;
 /**
  * Created by Mohammad Reza Eram  on 20/01/2018.
  */
-
+import com.github.EzzalddeenAli.utilsx.R;
 public class GuideButtonsView extends LinearLayout {
 
     private Paint mPaint;

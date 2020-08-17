@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
+import com.github.EzzalddeenAli.utilsx.R;
 /**
  * Created by Mohammad Reza Eram  on 20/01/2018.
  */

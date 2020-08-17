@@ -30,7 +30,7 @@ import org.kingtec.utils.showcaseezz.config.DismissType;
 import org.kingtec.utils.showcaseezz.config.Gravity;
 import org.kingtec.utils.showcaseezz.listener.GuideListener;
 
-
+import com.github.EzzalddeenAli.utilsx.R;
 @SuppressLint("ViewConstructor")
 public class EzzGuideView extends FrameLayout {
 

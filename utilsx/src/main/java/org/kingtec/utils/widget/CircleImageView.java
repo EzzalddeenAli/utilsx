@@ -23,7 +23,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewOutlineProvider;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 import androidx.annotation.ColorInt;
 import androidx.annotation.ColorRes;

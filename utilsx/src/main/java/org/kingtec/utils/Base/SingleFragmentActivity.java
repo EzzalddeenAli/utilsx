@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 import org.kingtec.utils.slidr.Slidr;
 import org.kingtec.utils.tools.Tools;
 

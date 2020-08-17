@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import org.kingtec.utils.Base.widget.SpacingItemDecoration;
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

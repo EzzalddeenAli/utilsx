@@ -11,7 +11,7 @@ import androidx.core.content.res.ResourcesCompat;
  * Created by dinhcv on 2019-08-20.
  * Copyright (c) 2019 Pacom-Solution. All rights reserved.
  */
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 public class SquareIndicator extends IndicatorShape {
 

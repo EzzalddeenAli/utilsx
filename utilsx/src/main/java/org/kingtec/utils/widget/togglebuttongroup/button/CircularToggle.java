@@ -9,7 +9,7 @@ import android.util.AttributeSet;
 import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 import androidx.core.content.ContextCompat;
 

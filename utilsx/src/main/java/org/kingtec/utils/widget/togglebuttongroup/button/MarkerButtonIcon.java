@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 import androidx.core.content.ContextCompat;
 

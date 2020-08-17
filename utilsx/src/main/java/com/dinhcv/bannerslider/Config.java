@@ -4,7 +4,7 @@ import android.content.Context;
 import android.graphics.drawable.Drawable;
 
 import androidx.core.content.ContextCompat;
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 /**
  * Created by dinhcv on 2019-08-20.

@@ -17,7 +17,7 @@ import com.dinhcv.bannerslider.indicators.SquareIndicator;
 
 import java.util.ArrayList;
 import java.util.List;
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 
 /**

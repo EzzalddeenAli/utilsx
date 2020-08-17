@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.kingtec.utils">
+    package="com.github.EzzalddeenAli.utilsx">
 
 
     <application
@@ -12,6 +12,6 @@
       <!--display the user profile-->
 
 
-        <activity android:name=".Base.SingleFragmentActivity" />
+        <activity android:name="org.kingtec.utils.Base.SingleFragmentActivity" />
     </application>
 </manifest>

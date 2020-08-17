@@ -3,7 +3,7 @@ package com.dinhcv.bannerslider.indicators;
 import android.content.Context;
 import android.os.Build;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 
 import androidx.core.content.res.ResourcesCompat;

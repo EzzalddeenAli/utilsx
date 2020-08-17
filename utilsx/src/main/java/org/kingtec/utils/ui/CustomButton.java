@@ -6,7 +6,7 @@ import android.os.Build;
 import android.util.AttributeSet;
 
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 import org.kingtec.utils.widget.togglebuttongroup.button.ToggleButton;
 
 import java.util.Locale;

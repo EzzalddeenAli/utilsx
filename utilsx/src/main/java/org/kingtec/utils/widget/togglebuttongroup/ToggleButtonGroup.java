@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Checkable;
 import android.widget.CompoundButton;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 import org.kingtec.utils.widget.togglebuttongroup.button.OnCheckedChangeListener;
 import org.kingtec.utils.widget.togglebuttongroup.button.ToggleButton;
 

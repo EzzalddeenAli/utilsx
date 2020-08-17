@@ -6,7 +6,7 @@ import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 
 

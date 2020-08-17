@@ -23,7 +23,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 import org.kingtec.utils.ViewAnimation;
 import org.kingtec.utils.tools.Tools;
 

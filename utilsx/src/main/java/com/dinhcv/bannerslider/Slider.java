@@ -20,7 +20,7 @@ import com.dinhcv.bannerslider.event.OnSlideChangeListener;
 import com.dinhcv.bannerslider.event.OnSlideClickListener;
 import com.dinhcv.bannerslider.indicators.IndicatorShape;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 import java.util.Timer;
 import java.util.TimerTask;

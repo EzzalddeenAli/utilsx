@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.View;
 import android.view.ViewGroup;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 import org.kingtec.utils.slidr.model.SlidrConfig;
 import org.kingtec.utils.slidr.model.SlidrInterface;
 import org.kingtec.utils.slidr.widget.SliderPanel;

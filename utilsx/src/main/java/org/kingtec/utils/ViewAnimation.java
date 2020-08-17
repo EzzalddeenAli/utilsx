@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup.LayoutParams;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
-
+import com.github.EzzalddeenAli.utilsx.R;
 public class ViewAnimation {
 
     public static void expand(final View v, final AnimListener animListener) {

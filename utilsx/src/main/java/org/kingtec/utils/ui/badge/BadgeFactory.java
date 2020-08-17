@@ -3,7 +3,7 @@ package org.kingtec.utils.ui.badge;
 import android.content.Context;
 import android.view.Gravity;
 
-import org.kingtec.utils.R;
+import com.github.EzzalddeenAli.utilsx.R;
 
 /**
  * Created by Allen Liu on 2016/7/15.

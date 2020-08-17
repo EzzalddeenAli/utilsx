@@ -1,7 +1,7 @@
 package org.kingtec.utils;
 
 import java.util.regex.Pattern;
-
+import com.github.EzzalddeenAli.utilsx.R;
 /**
  * Created by stefano on 18/05/2016.
  */

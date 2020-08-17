@@ -10,7 +10,7 @@
 //import android.view.WindowManager;
 //import android.widget.LinearLayout;
 //
-//import org.kingtec.utils.R;
+//import com.github.EzzalddeenAli.utilsx.R;
 //
 //import androidx.annotation.FloatRange;
 //import androidx.appcompat.widget.Toolbar;
